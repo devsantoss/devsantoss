@@ -13,7 +13,7 @@
 <a href="mailto:davsantos@protonmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/wappalyzer/wappalyzer/master/src/drivers/webextension/images/icons/Proton%20Mail.svg" alt="davsantos" height="40" width="40" /></a>
 </p>
 
-![Element](https://img.shields.io/badge/-%40lathspell__%3Amatrix.org-333333?logo=element&label=Element)
+![Element](https://img.shields.io/badge/-%40lathspell__%3Amatrix.org-333333?style=for-the-badge&logo=element&label=Element)
 
 <h3 align="left">🛠 Languages and Tools:</h3>
 
