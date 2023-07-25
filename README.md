@@ -14,11 +14,6 @@
 <a href="https://matrix.to/#/@lathspell_:matrix.org" target="blank"><img align="center" src="https://element.io/images/logo-mark-primary.svg" alt="@lathspell_:matrix.org" height="40" width="40" /></a>
 </p>
 
-![Element](https://img.shields.io/badge/-lathspell__%3Amatrix.org-333333?style=for-the-badge&logo=element&link=https%3A%2F%2Fmatrix.to%2F%23%2F%40lathspell_%3Amatrix.org)
-
-<img alt="Static Badge" src="https://img.shields.io/badge/-lathspell__%3Amatrix.org-333333?style=for-the-badge&logo=element&link=https%3A%2F%2Fmatrix.to%2F%23%2F%40lathspell_%3Amatrix.org">
-
-
 <h3 align="left">🛠 Languages and Tools:</h3>
 
 - 💻 **Languages**&nbsp;
