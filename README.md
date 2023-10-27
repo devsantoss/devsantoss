@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/devsantoss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devsantoss" height="30" width="40" /></a>
-<a href="mailto:davsantos@protonmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/wappalyzer/wappalyzer/master/src/drivers/webextension/images/icons/Proton%20Mail.svg" alt="davsantos" height="40" width="40" /></a>
+<a href="mailto:david.prologue213@passfwd.com" target="blank"><img align="center" src="https://proton.me/static/39816156cea861bd9fac867c3a254186/proton-mail-full-logo.svg" alt="davsantos" height="40" width="40" /></a>
 <a href="https://matrix.to/#/@lathspell_:matrix.org" target="blank"><img align="center" src="https://element.io/images/logo-mark-primary.svg" alt="@lathspell_:matrix.org" height="40" width="40" /></a>
 </p>
 
